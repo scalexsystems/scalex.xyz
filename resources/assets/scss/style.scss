@@ -1,0 +1,67 @@
+$enable-flex: true;
+
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif:      Georgia, "Times New Roman", Times, serif;
+$font-family-monospace:  Menlo, Monaco, Consolas, "Courier New", monospace;
+$font-family-base:       $font-family-sans-serif;
+
+$brand-primary: #344952;
+
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+@import '../../../node_modules/font-awesome/scss/font-awesome';
+
+img {
+  max-width: 99.99999%;
+}
+
+.welcome {
+  height: 100vh;
+  min-height: 320px;
+
+  padding-top: 5rem;
+
+  background-size: cover;
+  background: url(/assets/images/banner.jpg) center center;
+
+  h2 {
+    font-weight: normal;
+  }
+}
+
+img.logo {
+  width: 200px;
+}
+
+footer {
+  .logo {
+    width: 150px;
+  }
+}
+
+.fl {
+  display: flex;
+  > .fl-a {
+    flex: 1;
+  }
+}
+
+.card-block {
+  padding: 1.25rem 2rem;
+}
+
+.contact-card {
+  border-color: #f7f7f7;
+  background-color: #f7f7f7;
+}
+.join-card {
+  border-color: #dad7ff;
+  background-color: #dad7ff;
+
+  a.btn-primary {
+    background-color: #585870;
+  }
+}
+
+a.img-link {
+  text-decoration: none;
+}

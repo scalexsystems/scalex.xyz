@@ -1,0 +1,16 @@
+{
+  "name": "zerohq/scalex",
+  "description": "Website for Scalex Systems Pvt. Ltd.",
+  "keywords": ["Build with Katana"],
+  "license": "UNLICENSED",
+  "authors": [
+    {
+      "name": "Rahul Kadyan",
+      "email": "hi@znck.me"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "themsaid/katana-core": "1.*"
+  }
+}

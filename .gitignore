@@ -1,0 +1,10 @@
+# Directories
+/.idea
+/vendor
+/_cache
+/public
+/node_modules
+/.sass-cache
+
+# Mac OS
+.DS_Store

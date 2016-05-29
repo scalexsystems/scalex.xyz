@@ -1,0 +1,17 @@
+{
+  "name": "scalex.xyz",
+  "version": "0.0.1",
+  "description": "Building Scaleable Experiences",
+  "main": "resources/assets/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build-styles && php katana build",
+    "build-styles": "sass -t compressed resources/assets/scss/style.scss:content/assets/styles/style.css"
+  },
+  "author": "Rahul Kadyan <hi@znck.me>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
+    "font-awesome": "^4.6.3"
+  }
+}
