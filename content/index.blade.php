@@ -62,7 +62,7 @@
                                 <h4>Work with us!</h4>
                                 <p>Want to be a part of a team who believes to deliver the best experiences to the customers, then drop us a mail and we will get in touch with you.</p>
                                 <p>
-                                    <a href="https://www.linkedin.com/zero" class="btn btn-primary">View Openings</a>
+                                    <a href="https://www.linkedin.com/company/scalex/jobs" class="btn btn-primary">View Openings</a>
                                 </p>
                             </div>
                         </div>
@@ -82,9 +82,9 @@
         </p>
 
         <div>
-            <a href="https://facebook.com/" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-linkedin-square"></i></a>
+            <a href="https://www.linkedin.com/complany/scalex" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-linkedin-square"></i></a>
             <a href="https://twitter.com/scalexsystems" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-twitter-square"></i></a>
-            <a href="https://facebook.com/" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-facebook-square"></i></a>
+            <a href="https://facebook.com/scalexsystems" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-facebook-square"></i></a>
             <a href="https://instagram.com/zero.school" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-instagram"></i></a>
         </div>
     </footer>
