@@ -62,5 +62,5 @@ return [
 
     'siteName' => 'Scalex',
 
-    'siteDescription' => 'Yet another awesome site.',
+    'siteDescription' => 'Building Scalable Experiences! We strive for a great User Experience Design, which is reflected in our products. With our product Zero&trade;, we aim to make seamless digital infrastructure accessible and affordable to every educational institution in the country.',
 ];

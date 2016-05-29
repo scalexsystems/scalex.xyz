@@ -20,8 +20,9 @@ img {
 
   padding-top: 5rem;
 
-  background-size: cover;
+  background-size: 100% 100%;
   background: url(/assets/images/banner.jpg) center center;
+  background-size: cover;
 
   h2 {
     font-weight: normal;
