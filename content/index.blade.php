@@ -82,7 +82,7 @@
         </p>
 
         <div>
-            <a href="https://www.linkedin.com/complany/scalex" class="social"><i class="fa fa-fw fa-2x fa-linkedin-square"></i></a>
+            <a href="https://www.linkedin.com/company/scalex" class="social"><i class="fa fa-fw fa-2x fa-linkedin-square"></i></a>
             <a href="https://twitter.com/scalexsystems" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-twitter-square"></i></a>
             <a href="https://facebook.com/scalexsystems" class="social"><i class="fa fa-fw fa-2x fa-facebook-square"></i></a>
             <a href="https://instagram.com/zero.school" class="m-l-1 social"><i class="fa fa-fw fa-2x fa-instagram"></i></a>
