@@ -2,7 +2,7 @@
 /.idea
 /vendor
 /_cache
-/public
+# /public # Published Website
 /node_modules
 /.sass-cache
 
