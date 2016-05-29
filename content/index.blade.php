@@ -40,10 +40,10 @@
                                     To know more about our product, or business enquiry or to just have a chat, reach us here:
                                 </p>
                                 <p>
-                                    <i class="fa fa-fw fa-phone-square"></i> <a href="tel:+91-847-399-4808">+91 (847) 399-4808</a>
+                                    <i class="fa fa-fw fa-phone-square"></i> &nbsp; <a href="tel:+918473994808">+91-847 399 4808</a>
                                 </p>
                                 <p>
-                                    <i class="fa fa-fw fa-envelope"></i> <a href="mailto:hello@scalex.xyz">hello@scalex.xyz</a><br>
+                                    <i class="fa fa-fw fa-envelope"></i> &nbsp; <a href="mailto:hello@scalex.xyz">hello@scalex.xyz</a><br>
                                 </p>
                             </div>
                         </div>
