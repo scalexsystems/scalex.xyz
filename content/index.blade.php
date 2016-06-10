@@ -62,7 +62,7 @@
                                 <h4>Work with us!</h4>
                                 <p>Want to be a part of a team who believes to deliver the best experiences to the customers, then drop us a mail and we will get in touch with you.</p>
                                 <p>
-                                    <a href="https://www.linkedin.com/company/scalex/jobs" class="btn btn-primary">View Openings</a>
+                                    <a href="https://angel.co/scalexsystems/jobs" class="btn btn-primary">View Openings</a>
                                 </p>
                             </div>
                         </div>
