@@ -1,0 +1,16 @@
+/* TEAM */
+Developer: Rahul Kadyan
+Site: http://znck.me
+Twitter: rahulkadyan7
+Location: Bangalore, India
+
+Designer: Suwardhan Ahirrao
+Site: http://suwardhan.com
+Twitter: suwardhan
+Location: Bangalore, India
+
+
+/* SITE */
+Last update: 2016/06/12
+Standards: HTML5, CSS3
+Software: Katana <http://themsaid.com/katana/>
