@@ -76,16 +76,20 @@ a.img-link {
 }
 
 .contact-card {
-  width: 320px;
+  flex: 0 0 100%;
+  @include media-breakpoint-up(sm) {
+    max-width: 360px;
+    flex: 0 0 360px;
+  }
   margin: 0 auto;
   .profile {
     width: 160px;
     border-radius: 160px;
   }
   .company {
-    height: 2rem;
+    height: 1.5rem;
     display: inline-block;
-    margin-right: 1rem;
+    margin-right: .5rem;
   }
   i.fa {
     margin-right: .6rem;

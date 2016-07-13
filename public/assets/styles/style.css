@@ -6960,15 +6960,19 @@ a.img-link {
   min-height: 100vh; }
 
 .contact-card {
-  width: 320px;
+  flex: 0 0 100%;
   margin: 0 auto; }
+  @media (min-width: 544px) {
+    .contact-card {
+      max-width: 360px;
+      flex: 0 0 360px; } }
   .contact-card .profile {
     width: 160px;
     border-radius: 160px; }
   .contact-card .company {
-    height: 2rem;
+    height: 1.5rem;
     display: inline-block;
-    margin-right: 1rem; }
+    margin-right: .5rem; }
   .contact-card i.fa {
     margin-right: .6rem; }
 
