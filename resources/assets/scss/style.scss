@@ -1,9 +1,9 @@
 $enable-flex: true;
 
 $font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif:      Georgia, "Times New Roman", Times, serif;
-$font-family-monospace:  Menlo, Monaco, Consolas, "Courier New", monospace;
-$font-family-base:       $font-family-sans-serif;
+$font-family-serif: Georgia, "Times New Roman", Times, serif;
+$font-family-monospace: Menlo, Monaco, Consolas, "Courier New", monospace;
+$font-family-base: $font-family-sans-serif;
 
 $brand-primary: #344952;
 
@@ -54,6 +54,7 @@ footer {
   border-color: #f7f7f7;
   background-color: #f7f7f7;
 }
+
 .join-card {
   border-color: #dad7ff;
   background-color: #dad7ff;
@@ -65,4 +66,28 @@ footer {
 
 a.img-link {
   text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  min-height: 100vh;
+}
+
+.contact-card {
+  width: 320px;
+  margin: 0 auto;
+  .profile {
+    width: 160px;
+    border-radius: 160px;
+  }
+  .company {
+    height: 2rem;
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  i.fa {
+    margin-right: .6rem;
+  }
 }
