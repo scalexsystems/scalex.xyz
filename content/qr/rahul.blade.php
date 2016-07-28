@@ -6,7 +6,7 @@
             <img src="/assets/images/qr/rahul.jpg" alt="Rahul Kadyan" class="profile">
         </div>
         <h4 class="text-xs-center m-t-2 fn">Rahul Kadyan</h4>
-        <div class="text-xs-center">Operations</div>
+        <div class="text-xs-center">Development</div>
         <br>
         <div class="card">
             <div class="card-block">
