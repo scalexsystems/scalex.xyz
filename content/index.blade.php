@@ -62,6 +62,7 @@
                                 <h4>Work with us!</h4>
                                 <p>Want to be a part of a team who believes to deliver the best experiences to the customers, then drop us a mail and we will get in touch with you.</p>
                                 <p>
+                                    <a href="/team" class="btn btn-primary-outline">The Team</a>
                                     <a href="https://angel.co/scalexsystems/jobs" class="btn btn-primary">View Openings</a>
                                 </p>
                             </div>
@@ -71,21 +72,4 @@
             </div>
         </div>
     </div>
-
-    <footer class="m-y-3 container text-xs-center">
-        <div>
-            <img src="/assets/images/logo.svg" alt="Scalex System Pvt. Ltd." class="logo">
-        </div>
-
-        <p class="m-y-2">
-            <small>Copyright 2016 &copy; Scalex Systems Pvt. Ltd.</small>
-        </p>
-
-        <div>
-            <a href="https://www.linkedin.com/company/scalex" class="social"><i class="fa fa-fw fa-2x fa-linkedin-square"></i></a>
-            <a href="https://twitter.com/scalexsystems" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-twitter-square"></i></a>
-            <a href="https://facebook.com/scalexsystems" class="social"><i class="fa fa-fw fa-2x fa-facebook-square"></i></a>
-            <a href="https://instagram.com/zero.school" class="m-l-1 social"><i class="fa fa-fw fa-2x fa-instagram"></i></a>
-        </div>
-    </footer>
 @stop

@@ -40,6 +40,23 @@
 <body>
     @yield('body')
 
+    <footer class="m-y-3 container text-xs-center">
+        <div>
+            <img src="/assets/images/logo.svg" alt="Scalex System Pvt. Ltd." class="logo">
+        </div>
+
+        <p class="m-y-2">
+            <small>Copyright 2016 &copy; Scalex Systems Pvt. Ltd.</small>
+        </p>
+
+        <div>
+            <a href="https://www.linkedin.com/company/scalex" class="social"><i class="fa fa-fw fa-2x fa-linkedin-square"></i></a>
+            <a href="https://twitter.com/scalexsystems" class="m-x-1 social"><i class="fa fa-fw fa-2x fa-twitter-square"></i></a>
+            <a href="https://facebook.com/scalexsystems" class="social"><i class="fa fa-fw fa-2x fa-facebook-square"></i></a>
+            <a href="https://instagram.com/zero.school" class="m-l-1 social"><i class="fa fa-fw fa-2x fa-instagram"></i></a>
+        </div>
+    </footer>
+
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
