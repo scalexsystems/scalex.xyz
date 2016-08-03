@@ -12,5 +12,9 @@
   "require": {
     "php": ">=5.5.9",
     "themsaid/katana-core": "1.*"
+  },
+  "scripts": {
+    "deploy": "git subtree push --prefix public origin gh-pages",
+    "build": "node-sass --output-style compressed resources/assets/scss/style.scss > content/assets/styles/style.css && php katana build"
   }
 }
