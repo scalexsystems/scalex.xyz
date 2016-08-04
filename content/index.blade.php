@@ -13,17 +13,19 @@
         <div class="row">
             <div class="col-xs-12 col-md-6 text-xs-center">
                 <a href="https://zero.school/" class="img-link">
-                    <img src="/assets/images/zero-logo.svg" alt="Zero.School" class="logo">
+                    <img src="/assets/images/zero-logo.svg" alt="Zero.School" width="132">
 
                     <br> <br>
 
-                    <small class="text-muted">Click to learn more.</small>
+                    <small class="text-muted">click to learn more</small>
                 </a>
             </div>
             <div class="col-xs-12 col-md-6">
                 <p>We strive for a great User Experience Design, which is reflected in our products.</p>
 
                 <p class="m-y-2">With our product Zero&trade;, we aim to make seamless digital infrastructure accessible and affordable to every educational institution in the country.</p>
+
+                <a href="https://zero.school/" class="btn btn-primary">Learn more about Zero</a>
             </div>
         </div>
     </div>
