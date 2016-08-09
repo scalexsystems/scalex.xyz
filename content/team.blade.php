@@ -80,7 +80,7 @@
                             <div class="about">
                                 <h3>
                                     Prof. Gautam Barua <br>
-                                    <small>Product Mentor</small>
+                                    <small>Honorary Product Mentor</small>
                                 </h3>
 
                                 <p>
