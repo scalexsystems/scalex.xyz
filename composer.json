@@ -16,6 +16,7 @@
   "scripts": {
     "deploy": "composer upload && git push",
     "upload": "git subtree push --prefix public origin gh-pages",
-    "build": "node-sass --output-style compressed resources/assets/scss/style.scss > content/assets/styles/style.css && php katana build"
+    "build": "node-sass --output-style compressed resources/assets/scss/style.scss > content/assets/styles/style.css && php katana build",
+    "serve": "php -S localhost:9000 -t public"
   }
 }
