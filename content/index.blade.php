@@ -21,9 +21,6 @@
         <a href="http://zero.institute/" class="btn m-b-1">
           <img src="/assets/images/zi.svg" alt="Zero for Institutes" style="height: 1.5rem">
         </a>
-        <a href="https://zero.school/" class="btn m-b-1">
-          <img src="/assets/images/zs.svg" alt="Zero for Schools" style="height: 1.5rem">
-        </a>
       </div>
     </div>
   </div>
